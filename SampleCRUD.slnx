@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="SampleCRUD.Entities/SampleCRUD.Entities.csproj" Id="9246e4d6-43dc-4ef3-831c-ded86fdc3c0d" />
+  <Project Path="SampleCRUD.Interfaces/SampleCRUD.Interfaces.csproj" Id="b83b6be8-1475-4c99-ab97-e67cd6bc5087" />
+  <Project Path="SampleCRUD.Models/SampleCRUD.Models.csproj" Id="63b8c70b-5ae0-43fa-ae83-006cae978449" />
+  <Project Path="SampleCRUD.UnitTests/SampleCRUD.UnitTests.csproj" Id="d2811f61-6618-4424-8170-740ec73e6b7f" />
+  <Project Path="SampleCRUD/SampleCRUD.csproj" />
+</Solution>
