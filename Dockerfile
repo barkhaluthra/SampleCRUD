@@ -14,4 +14,4 @@ WORKDIR /app
 
 COPY --from=build /app .
 
-ENTRYPOINT ["dotnet", "SampleCRUD.dll"
+ENTRYPOINT ["dotnet", "SampleCRUD.dll"]
